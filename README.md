@@ -60,7 +60,7 @@ Subscribers get emoji stats every 2 seconds.
 ## Contributors
 - Lakshya Vijay ([GitHub](https://github.com/laksxya))
 - Naveen Nair ([GitHub](https://github.com/fl1x12))
-- Shanuga Teja ([GitHub](https://github.com/NaveenNair04))
+- Shanmuga Teja ([GitHub](https://github.com/NaveenNair04))
 - Maitreya Tiwary ([GitHub](https://github.com/MaitreyaTiwary))
 
 
